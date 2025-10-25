@@ -9,7 +9,7 @@ This project performs an A/B test and funnel analysis on synthetic e-commerce da
 *   Python
 *   Pandas (for data manipulation and analysis)
 *   SciPy/Statsmodels (for statistical hypothesis testing - two-proportion z-test)
-*   Matplotlib/Plotly (for data visualization)
+*   Matplotlib (for data visualization)
 *   Jupyter Notebook (Google Colab environment)
 
 ## Project Steps
